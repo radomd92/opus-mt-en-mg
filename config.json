@@ -15,6 +15,7 @@
   "decoder_ffn_dim": 2048,
   "decoder_layerdrop": 0.0,
   "decoder_layers": 6,
+  "decoder_start_token_id": 54687,
   "dropout": 0.1,
   "encoder_attention_heads": 8,
   "encoder_ffn_dim": 2048,
