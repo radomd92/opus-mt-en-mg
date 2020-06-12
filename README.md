@@ -1,3 +1,8 @@
+---
+tags:
+- translation
+---
+
 ### opus-mt-en-mg
 
 * source languages: en
