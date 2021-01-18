@@ -44,7 +44,7 @@
   "model_type": "marian",
   "normalize_before": false,
   "normalize_embedding": false,
-  "num_beams": 6,
+  "num_beams": 4,
   "num_hidden_layers": 6,
   "pad_token_id": 54687,
   "scale_embedding": true,
