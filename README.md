@@ -1,6 +1,7 @@
 ---
 tags:
 - translation
+license: apache-2.0
 ---
 
 ### opus-mt-en-mg
